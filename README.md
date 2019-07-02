@@ -1,2 +1,3 @@
 # hello-world
-my first rep
+my 1st repository
+I'm 29 yo
